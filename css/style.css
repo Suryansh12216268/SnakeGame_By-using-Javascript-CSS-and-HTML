@@ -26,9 +26,9 @@
 #hiscoreBox{
     position: absolute;
     top: 59px;
-    right: 140px;
-    font-size: 39px;
-    font-weight: bold;
+    right: 160px;
+    font-size: 79px;
+    font-weight: italic;
     font-family: 'New Tegomin', serif;
 }
 
@@ -50,8 +50,8 @@
 }
 
 .snake{
-    background-color: purple;
-    border: .25vmin solid white;
+    background-color: red;
+    border: .25vmin solid green;
     border-radius: 12px;
 }
 
